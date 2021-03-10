@@ -33,7 +33,7 @@ $app->post('/submit', function ($request, $response) {
 
     if (!$mail->send()) {
         $this->flash->error('Email inválido');
-        $this->logger->addError('A mensagem não pôde ser enviada. Erro interno: ' . $mail->ErrorInfo);
+        $this->logger->addError('A mensagem não pode ser enviada. Erro interno: ' . $mail->ErrorInfo);
     } else {
         $this->flash->success('Email enviado');
     }
