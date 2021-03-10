@@ -5,12 +5,13 @@ use Psr\Http\Message\ServerRequestInterface as Request;
 use Slim\Factory\AppFactory;
 
 require __DIR__ . '/../vendor/autoload.php';
+session_start();
 
-$app = AppFactory::create();
+$settings = require __DIR__ . '/../app/settings.php';
+$app = AppFactory::create($settings);
 
-$app->get('/', function (Request $request, Response $response, $args) {
-    $response->getBody()->write("Hello world!");
-    return $response;
-});
+require __DIR__ . '/../app/dependencies.php';
+require __DIR__ . '/../app/middlewares.php';
+require __DIR__ . '/../app/routes.php';
 
 $app->run();
