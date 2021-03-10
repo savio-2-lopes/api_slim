@@ -1,16 +1,10 @@
 {
-  "require": {
-    "slim/slim": "3.*",
-    "slim/twig-view": "^3.2",
-    "phpmailer/phpmailer": "^6.3",
-    "slim/csrf": "^1.2",
-    "plasticbrain/php-flash-messages": "^1.0",
-    "vlucas/phpdotenv": "^5.3",
-    "monolog/monolog": "^2.2"
-  },
-  "autoload": {
-    "files": [
-      "app/help.php"
-    ]
-  }
+    "require": {
+        "slim/slim": "3.*",
+        "phpmailer/phpmailer": "^6.3",
+        "slim/csrf": "^1.2",
+        "plasticbrain/php-flash-messages": "^1.0",
+        "vlucas/phpdotenv": "^5.3",
+        "monolog/monolog": "^2.2"
+    }
 }
