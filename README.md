@@ -51,6 +51,8 @@ Além disto é bom ter um editor para trabalhar com o código, como [VSCode](htt
 
 ```bash
 
+# Primeiramente, importe arquivo blog.sql para seu banco de dados mySQL
+
 # Entre na pasta htdocs do XAMPP (ou www no WAMP) e clone este repositório
 $ git clone https://github.com/savio-2-lopes/api_slim.git
 
