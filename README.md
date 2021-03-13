@@ -61,7 +61,7 @@ $ composer install
 $ php -S localhost:8888 -t public public/index.php
 
 # Abra seu navegador em
-[http://localhost:8888](http://localhost:8888)
+$ http://localhost:8888
 
 ```
 
