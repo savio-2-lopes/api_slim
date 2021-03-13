@@ -1,0 +1,41 @@
+{% extends "layouts/base.twig" %}
+
+{% block content %}
+
+<main class="container articles">
+  <section class="column is-8 is-offset-2">
+      <div class="card article">
+        <div class="card-content">
+          <div class="media">
+            <div class="media-content has-text-centered">
+              <p class="title article-title"></p>
+              <div class="tags has-addons level-item">
+                <span class="tag is-rounded"></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="content article-body"></div>
+
+            <div class="has-text-right">
+               <a href="" class="btn btn-success is-success is-focused">Editar</a>
+              <a href="" class="btn btn-danger is-danger is-focused">Deletar</a>
+            </div>            
+        </div>
+      </div>
+
+    <section class="hero is-success is-bold is-small promo-block">
+      <div class="hero-body">
+        <div class="container">
+          <h1 class="title">
+            <i class="fa fa-bell-o"></i> Venha fazer parte da comunidade Slim.</h1>
+          <span class="tag is-medium is-medium is-rounded">
+           <a href ="https://github.com/slimphp" target ="_blank" style="text-decoration: none">Venha fazer parte da comunidade Slim!</a> 
+          </span>
+        </div>
+      </div>
+    </section>
+  </section>
+</main>
+
+{% endblock %}
