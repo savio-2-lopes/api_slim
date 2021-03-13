@@ -1,11 +1,3 @@
--- phpMyAdmin SQL Dump
--- version 5.0.4
--- https://www.phpmyadmin.net/
---
--- Host: 127.0.0.1
--- Tempo de geração: 13-Mar-2021 às 20:00
--- Versão do servidor: 10.4.17-MariaDB
--- versão do PHP: 8.0.2
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -55,13 +47,6 @@ CREATE TABLE `users` (
   `created_at` timestamp NOT NULL DEFAULT current_timestamp(),
   `updated_at` timestamp NOT NULL DEFAULT current_timestamp()
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
---
--- Extraindo dados da tabela `users`
---
-
-INSERT INTO `users` (`id`, `name`, `email`, `password`, `avatar`, `confirmation_key`, `confirmation_expires`, `is_confirmation`, `created_at`, `updated_at`) VALUES
-(1, 'Savio', 'saviolopes@gmail.com', '123456', '', 'enterenterenter', '2021-03-12 22:04:05', 0, '2021-03-13 01:04:07', '2021-03-13 01:04:07');
 
 -- --------------------------------------------------------
 
