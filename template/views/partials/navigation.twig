@@ -1,0 +1,23 @@
+<nav class="navbar">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="../" style="text-decoration:none">
+        <img style = "width:9rem" src="https://aws1.discourse-cdn.com/standard14/uploads/slimframework/original/1X/704c3a9a7ce53ea7d06952ff4a33cf945e68ac4e.png" alt="Logo">
+      </a>
+      <span class="navbar-burger burger" data-target="navbarMenu"></span>
+    </div>
+    <div id="navbarMenu" class="navbar-menu">
+      <div class="navbar-end">
+        <a href="{{ path_for('home') }}" class="navbar-item is-active" style="text-decoration:none">
+          Home
+        </a>
+        <a href="{{ path_for('auth.login') }}" class="navbar-item is-active" style="text-decoration:none">
+          Login
+        </a>
+        <a href="{{ path_for('auth.register') }}" class="navbar-item is-active" style="text-decoration:none">
+          Registrar
+        </a>
+      </div>
+    </div>
+  </div>
+</nav>
