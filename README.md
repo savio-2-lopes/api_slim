@@ -31,7 +31,7 @@
 
 ## 💻 Sobre o projeto
 
-🚀 Simples blog desenvolvido utilizando o micro-framework Slim
+:tada: Simples blog desenvolvido utilizando o micro-framework Slim
 
 <br>
 
