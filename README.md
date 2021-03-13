@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="SlimApi" title="SlimApi" src="./assets/gif.png" width="500px" />
+    <img alt="SlimApi" title="SlimApi" src="./assets/gif.gif " width="500px" />
 </h3>
 
 <p align="center"> :computer: <strong>API Blog Slim</strong> 🚧</p>
