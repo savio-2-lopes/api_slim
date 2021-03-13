@@ -2,8 +2,8 @@
     <img alt="SlimApi" title="SlimApi" src="./assets/gif.gif " width="500px" />
 </h3>
 
-<p align="center"> :computer: <strong>API Blog Slim</strong> 🚧</p>
- 
+<p align="center"> :computer: <strong>Em progresso ...</strong> 🚧</p>
+
 <p align="center">
    <img src="https://img.shields.io/badge/version-0.0.1-yellow.svg" />
   
