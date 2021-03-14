@@ -23,6 +23,7 @@
 - [Sobre](#sobre-o-projeto)
 - [Como Executar](#executar)
 - [Tecnologias](#tecnologias)
+- [Desenvolvido por](#desenvolvido)
 - [Licença](#licenca)
 
 <br>
@@ -79,6 +80,20 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Twig](https://twig.symfony.com/)
 - [Slim](https://www.w3schools.com/css/)
 - [PHP](https://www.php.net/)
+
+<br>
+
+<a id="desenvolvido"></a>
+
+## :tada: Desenvolvidor por ✨
+
+<table>
+  <tr>
+    <td align="center"><a href="http://github.com/ighormello"><img src="https://avatars.githubusercontent.com/u/64975022?s=460&u=4c2e413e158b7fbe1f3251e19f2c56e36a83924c&v=4" width="100px;" alt=""/><br /><sub><b>Ighor Mello</b></sub></a><br /><a href="#" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Rosimary-Souza"><img src="https://avatars.githubusercontent.com/u/65257904?s=460&u=49911b7621688db4a0405f3f98780fe3ad77ccf6&v=4" width="100px;" alt=""/><br /><sub><b>Rosimary Souza.</b></sub></a><br /><a href="#content-luisangelorjr" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/savio-2-lopes/"><img src="https://avatars.githubusercontent.com/u/60948849?s=460&u=d960a616d3701e0622420a48e5d9db98cb7ee46e&v=4" width="100px;" alt=""/><br /><sub><b>Savio Lopes</b></sub></a><br /><a href="#content-tammyfaga" title="Content">🖋</a></td>
+  </tr>
+</table>
 
 <br>
 
