@@ -85,7 +85,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <a id="desenvolvido"></a>
 
-## :tada: Desenvolvidor por ✨
+## :tada: Desenvolvido por ✨
 
 <table>
   <tr>
