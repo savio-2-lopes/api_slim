@@ -48,7 +48,7 @@ Além disto é bom ter um editor para trabalhar com o código, como [VSCode](htt
 
 <br>
 
-#### 🧭 Rodando a aplicação web (Extensão)
+#### 🧭 Rodando a aplicação web 
 
 ```bash
 
