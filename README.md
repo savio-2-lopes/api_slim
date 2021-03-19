@@ -44,7 +44,7 @@
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [PHP](https://www.php.net/), [WAMPP](https://www.wampserver.com/en/) ou [XAMPP](https://www.apachefriends.org/pt_br/index.html) e o gerenciador de pacotes [Composer](https://getcomposer.org/).
-Além disto é bom ter um editor para trabalhar com o código, como [VSCode](https://code.visualstudio.com/)
+Além disto é bom ter um editor para trabalhar com o código, como, por exemplo, o [VSCode](https://code.visualstudio.com/)
 
 <br>
 
