@@ -1,8 +1,8 @@
 <h3 align="center">
-    <img alt="SlimApi" title="SlimApi" src="./assets/gif.gif" width="600px" />
+    <img alt="SlimCrud" title="SlimCrud" src="./assets/gif.gif" width="600px" />
 </h3>
 
-<p align="center"> :computer: <strong>Em progresso ...</strong> 🚧</p>
+<p align="center"> :rocket: <strong>Em progresso ...</strong> 🚧</p>
 
 <p align="center"> 
    <img src="https://img.shields.io/badge/version-0.0.1-yellow.svg" />
